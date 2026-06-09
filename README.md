@@ -37,12 +37,5 @@ A clean, optimized, and well-documented collection of Python solutions for mathe
 
 ### Prerequisites
 To run these solutions locally, ensure you have Python 3.x installed on your system:
-```bash
-python --version
-
-## 🚀 Getting Started
-
-### Prerequisites
-To run these solutions locally, ensure you have Python 3.x installed on your system:
-```bash
+---
 python --version
