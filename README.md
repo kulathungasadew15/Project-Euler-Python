@@ -1,4 +1,5 @@
 # Project Euler Python Solutions 🔢
+🐍 A collection of clean, optimized Python solutions for mathematical and computational challenges on Project Euler.
 
 [![Project Euler](https://img.shields.io/badge/Project%20Euler-%23FF9900.svg?style=flat&logo=projecteuler&logoColor=white)](https://projecteuler.net/)
 [![Language](https://img.shields.io/badge/Language-Python%203.x-blue.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
