@@ -28,15 +28,6 @@ A structured repository containing my solutions to the mathematical and computat
 
 ---
 
-## 📂 Directory Structure
-
-All solutions are organized by problem number and implemented with optimization and clean code practices in mind.
-
-| Problem | Title | Language | Solution File |
-| :---: | :--- | :---: | :---: |
-| 001 | [Problem 1](https://projecteuler.net/problem=1) | Python | [problem01.py](./solutions/problem01.py) |
-| 002 | [Problem 2](https://projecteuler.net/problem=2) | Python | [problem_002.py](./solutions/problem_002.py) |
-| 003 | [Problem 3](https://projecteuler.net/problem=3) | Python | [problem_003.py](./solutions/problem_003.py) |
 ---
 
 ## 🛠️ Built With
