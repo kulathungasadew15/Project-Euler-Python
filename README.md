@@ -20,9 +20,9 @@ A structured repository containing my solutions to the mathematical and computat
 
 | Category | Solved | Status |
 | :--- | :---: | :---: |
-| **Problems 1 - 50** | `3 / 50` | In Progress ⏳ |
+| **Problems 1 - 50** | `4 / 50` | In Progress ⏳ |
 | **Problems 51 - 100** | `0 / 50` | Locked 🔒 |
-| **Total Progress** | **3 / Archived** | **Active** 🚀 |
+| **Total Progress** | **4 / Archived** | **Active** 🚀 |
 
 ---
 
