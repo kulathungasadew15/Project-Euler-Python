@@ -24,8 +24,6 @@ A structured repository containing my solutions to the mathematical and computat
 | **Problems 51 - 100** | `0 / 50` | Locked 🔒 |
 | **Total Progress** | **3 / Archived** | **Active** 🚀 |
 
-> **Note:** The problem count and directory table below are automatically updated via GitHub Actions whenever a new solution is pushed to the repository.
-
 ---
 
 ---
