@@ -41,15 +41,6 @@ Project Euler explicitly asks users not to publish solutions publicly to preserv
 
 ---
 
-## 🛠️ Built With
-
-*   **Python / C++ / JavaScript** (Modify this to match the languages you use)
-*   **GitHub Actions** (For automated README metrics)
-
----
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
