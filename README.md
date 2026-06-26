@@ -10,7 +10,8 @@ A clean, optimized, and well-documented collection of Python solutions for mathe
 ---
 # 🧮 Project Euler Solutions
 
-A structured repository containing my solutions to the mathematical and computational problems on
+A structured repository containing my solutions to the mathematical and computational problems on [Project Euler](https://projecteuler.net/).
+
 ![Problems Solved](https://img.shields.io/badge/PROBLEMS%20SOLVED-5-007ec6?style=flat&labelColor=555555)
 ---
 
