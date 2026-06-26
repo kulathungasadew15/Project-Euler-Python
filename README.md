@@ -21,7 +21,7 @@ A structured repository containing my solutions to the mathematical and computat
 | :--- | :---: | :---: |
 | **Problems 1 - 50** | `s / 50` | In Progress ⏳ |
 | **Problems 51 - 100** | `0 / 50` | Locked 🔒 |
-| **Total Progress** | **4 / Archived** | **Active** 🚀 |
+| **Total Progress** | **5 / Archived** | **Active** 🚀 |
 
 ---
 
