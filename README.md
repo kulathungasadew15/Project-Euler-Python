@@ -10,17 +10,15 @@ A clean, optimized, and well-documented collection of Python solutions for mathe
 ---
 # 🧮 Project Euler Solutions
 
-A structured repository containing my solutions to the mathematical and computational problems on [Project Euler](https://projecteuler.net/).
-
-![Problems Solved](https://img.shields.io/badge/PROBLEMS%20SOLVED-4-007ec6?style=flat&labelColor=555555)
-
+A structured repository containing my solutions to the mathematical and computational problems on
+![Problems Solved](https://img.shields.io/badge/PROBLEMS%20SOLVED-5-007ec6?style=flat&labelColor=555555)
 ---
 
 ## 📊 Progress Tracker
 
 | Category | Solved | Status |
 | :--- | :---: | :---: |
-| **Problems 1 - 50** | `4 / 50` | In Progress ⏳ |
+| **Problems 1 - 50** | `s / 50` | In Progress ⏳ |
 | **Problems 51 - 100** | `0 / 50` | Locked 🔒 |
 | **Total Progress** | **4 / Archived** | **Active** 🚀 |
 
